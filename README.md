@@ -1,3 +1,6 @@
+
+![WhatsApp Image 2023-06-13 at 00 47 05](https://github.com/TheCodeDaniel/android_food_waste_management_flutter/assets/130862856/f3421f64-415f-448d-aa6c-43f7112b49f4)
+
 # android_food_waste_management
 
 A new Flutter project.
